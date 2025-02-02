@@ -19,3 +19,4 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ccaileon/ccaileon/main/assets/profile-lightmode.png">
 
 </picture>
+  <img src="https://raw.githubusercontent.com/ccaileon/ccaileon/main/assets/darkmode-profile.png" alt="Profile Image" width="600" height="1080">
