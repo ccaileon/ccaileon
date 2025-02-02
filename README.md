@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-darkmode.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-lightmode.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ccaileon/ccaileon/main/assets/profile-darkmode.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ccaileon/ccaileon/main/assets/profile-lightmode.png">
 </picture>
