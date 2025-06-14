@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="text-align: center;">
-<img src="https://raw.githubusercontent.com/ccaileon/ccaileon/main/assets/computer.gif" alt="Computer GIF" width="600" height="auto" style="pointer-events: none;">
+<img src="https://raw.githubusercontent.com/ccaileon/ccaileon/main/assets/banner.png" alt="banner" height="auto" style="pointer-events: none;">
 
 
 <picture>
